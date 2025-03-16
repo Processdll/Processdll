@@ -5,7 +5,7 @@
 
 
 
-<p align="center"> 🔭 I’m currently working on <a href="https://discord.com/invite/Wexk8RF6xU" target="_blank">Developer!</a></p>
+<p align="center"> 🔭 I’m not currently working on anything.</p>
 
 <p align="center"> 🌱 I’m currently learning HTML, CSS, Batch, JavaScript, Lua</p>
 
